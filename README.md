@@ -1,0 +1,9 @@
+# Thesis
+
+**Author**: Laura Mauricio
+
+R script and Excel Sheet made for Master Dissertation. Methods used comprise Qualitative Content Analysis, Sentiment Analysis. 
+
+## Abstract
+
+The growth of digital technologies and fast paced digitalization has come to be described as a double-edge sword. On one side the digital space resonates with freedom and opportunity. On the other, the digital space witnessed abuses of privacy, censorship, surveillance practices, cyberattacks, profiling and data extraction. Similarly, promoted through security and economic arguments, digital identification seemed to have inherited this duality. Stuck in between an opportunity to broaden access to private and public services and a risk for privacy as well as an object of power and control, digital identification devices are complex to assess. With e-identities at the top of governments digitalization agenda, the perception of increasing digital identification requirements remain a controversial topic in the eyes of citizens. In today’s ambivalent digital context, exploring how citizens perceive identity management systems is crucial to understand the future of identification and citizenship. Through a Twitter content analysis, this research examines how a referendum on an electronic identification tool (eID) asked the Swiss population to make sense of digital identities. While mostly described as a convenience device, the findings highlight that citizens were torn between the eID’s potential benefits, and concerns over privacy, changing power relations, sovereignty, surveillance and control, citizenship and future risks. The research also demonstrates that the referendum represented a channel through which individuals were able to participate in the shaping of their digital rights and make digital claims. In that sense, the eID was perceived as directly linked to the future of citizenship. 
